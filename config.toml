@@ -1,11 +1,11 @@
 title = "Hate Us Cuz They Aint Us"
 baseURL = "http://HateUsCuzTheyAint.Us"
-tags = ["portfolio", "web design", "blog"]
+tags = ["hate", "fear", "anger"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-91420291-1"
 disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
@@ -33,18 +33,18 @@ publishDir = "docs"
     ajaxFormspree = true
 
 [[menu.main]]
-    name = "About"
-    url  = "/#about"
+    name = "Fear"
+    url  = "/#fear"
     weight = 1
 [[menu.main]]
-    name = "Work"
-    url  = "/#work"
+    name = "Anger"
+    url  = "/#anger"
     weight = 2
 [[menu.main]]
-    name = "Blog"
-    url  = "/#blog"
+    name = "Hate"
+    url  = "/#hate"
     weight = 3
 [[menu.main]]
-    name = "Contact"
-    url  = "/#contact"
+    name = "ContRact"
+    url  = "/#contract"
     weight = 4
