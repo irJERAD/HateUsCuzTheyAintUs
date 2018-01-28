@@ -9,10 +9,12 @@ googleAnalytics = ""
 disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
+publishDir = "docs"
+
 [Params]
     tagline = "Haters Enter Here"
-    author = "Toma Nistor"
-    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    author = "The Original Player Hater"
+    description = "When we don't know who to hate, we hate ourselves."
     logoBig = "/images/franco.gif"
     logoSmall = "/images/franco.gif"
     favicon = "favicon.ico"
